@@ -8,6 +8,7 @@ Redis是一个高性能的key-value数据库，作为一个典型的内存数据
 ## 更新历史
 
 2019年09月04日 - 补充redis.conf主从模式生产环境配置
+
 2018年11月29日 - 初稿
 
 阅读原文 - https://wsgzao.github.io/post/redis/
